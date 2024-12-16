@@ -1,4 +1,4 @@
-package org.dongkoer.com.config;
+package org.koer.com.config;
 
 import org.springframework.context.annotation.Configuration;
 

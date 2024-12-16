@@ -1,6 +1,6 @@
 spring:
   application:
-    name: popMartBackend
+    name: Backend
 
 
 springdoc:
@@ -10,4 +10,5 @@ springdoc:
   swagger-ui:
     path: /swagger-ui.html
     enabled: true
-
+server:
+  port: 8080
